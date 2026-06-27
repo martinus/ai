@@ -1,0 +1,3 @@
+# AI - martinus AI stuff
+
+Skills, plugins, ...
